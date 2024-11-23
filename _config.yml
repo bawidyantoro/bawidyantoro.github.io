@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Bimo Aji Widyantoro, S.T., M.Eng."
+  name             : "Bimo Aji Widyantoro"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Kota Balikpapan"
   employer         : "Institut Teknologi Kalimantan"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bimo.widyantoro@lecturer.itk.ac.id" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
