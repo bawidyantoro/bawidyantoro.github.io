@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Bimo Aji Widyantoro"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Seorang dosen di Prodi Perencanaan Wilayah dan Kota dengan fokus penelitian terkait Penginderaan Jauh, Pemodelan Spasial, dan WebGIS"
   location         : "Kota Balikpapan"
   employer         : "Institut Teknologi Kalimantan"
-  uri              : # URL
+  uri              : "https://bawidyantoro.github.io"
   email            : "bimo.widyantoro@lecturer.itk.ac.id" 
 
   # Academic websites
