@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rayakan Kolaborasi Spasial"
+title                    : "Melihat Dengan Spasial"
 title_separator          : "-"
 name                     : &name "Bimo Aji Widyantoro"
 description              : &description "Dosen Perencanaan Wilayah dan Kota, ITK"
-url                      : https://bawidyantoro.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://bawidyantoro.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bawidyantoro/bawidyantoro.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Bimo Aji Widyantoro"
   pronouns         : # example: "she/her"  
-  bio              : "Dosen Prodi Perencanaan Wilayah dan Kota dengan fokus penelitian terkait Penginderaan Jauh, Pemodelan Spasial, dan WebGIS"
+  bio              : "Dosen Prodi Perencanaan Wilayah dan Kota yang memiliki minat dalam bidang Penginderaan Jauh, Pemodelan Spasial, dan WebGIS"
   location         : "Kota Balikpapan"
   employer         : "Institut Teknologi Kalimantan"
   uri              : "https://bawidyantoro.github.io"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "bawidyantoro"
+  github           : "bawidyantoro"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
