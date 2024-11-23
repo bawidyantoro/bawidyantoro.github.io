@@ -50,15 +50,15 @@ author:
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  facebook         : # "bawidyantoro"
+  facebook         : "bawidyantoro"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # "@bawidyantoro"
+  instagram        : "bawidyantoro"
   lastfm           : # Username
-  linkedin         : # "/in/bawidyantoro"
+  linkedin         : "bawidyantoro"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
